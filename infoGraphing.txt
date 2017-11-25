@@ -1,0 +1,21 @@
+Graphing
+
+Overview
+Graphing with Python
+
+
+
+
+TODO
+Create some graphs via Python.
+
+Evaluate graph tools.
+    http://pbpython.com/visualization-tools-1.html
+    http://pbpython.com/simple-graphing-pandas.html
+    https://github.com/shiftshuffle/coursera-test for "sample-salesv2.csv"
+
+
+
+Logs
+Sat 25 Nov 2017 8:7:4 AM CST
+Created
